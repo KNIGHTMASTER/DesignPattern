@@ -1,0 +1,19 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.zisal.animal;
+
+/**
+ *
+ * @author Ladies Man
+ */
+public interface IAnimalConstant {
+    
+    interface Mamal{
+        public final String DOG = "Dog";
+        public final String CAT = "Cat";
+    }
+    
+}
